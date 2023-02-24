@@ -1,0 +1,47 @@
+*{
+    
+}
+    
+
+.martins-fish{
+    border: 4mm ridge rgba(100, 220, 50, .6);
+    width: 40vw;
+    background-color: rebeccapurple;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+img{
+    
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+      
+}
+.martins-places{
+    border: 4mm ridge rgba(100, 220, 50, .6);
+    width: 40vw;
+    background-color: rebeccapurple;
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    
+
+}
+.tips{
+    border: 10px dotted black;
+    height: 10vh;
+    display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+
+}
+.flex-box{
+    display: flex;
+
+    justify-content: space-between;
+    
+}
